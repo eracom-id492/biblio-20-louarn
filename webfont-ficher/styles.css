@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Karrik-Regular";
+  src: url(fonts/Karrik-Regular.woff);
+}
+
+p {
+  font-family: "Karrik-Regular";
+}
